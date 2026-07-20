@@ -1,0 +1,6 @@
+{
+  "name": "Auto Input Tester",
+  "description": "A universal automated input testing tool for validating WiFi keys, pins, passwords and logins locally on your own devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

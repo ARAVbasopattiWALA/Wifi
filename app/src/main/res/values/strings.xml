@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Auto Input Tester</string>
+    <string name="subtitle">Personal Password Recovery</string>
+    <string name="warning">Use only on YOUR OWN accounts/devices</string>
+    <string name="setup_overlay">SETUP OVERLAY BUTTONS</string>
+    <string name="input_button">📍 INPUT</string>
+    <string name="go_button">▶️ GO</string>
+    <string name="stop_button">⏹️ STOP</string>
+    <string name="password_found">🔓 Password Found!</string>
+    <string name="accessibility_service_description">Required for auto-clicking and text input on target apps</string>
+</resources>
